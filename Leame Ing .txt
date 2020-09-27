@@ -1,0 +1,14 @@
+*------------------------------*
+|Rodolfo Alfredo Martínez Román| 
+|0902-15-539		       |
+*------------------------------*	
+
+Observaciones: Ing. para conforme lo propuesto, no opté por agregar precios de los productos
+ya que debido a la estructura de esta. Admito que no debería ni estar la marca, sino en otra
+tabla, sin embargo por cuestión de visualización la agregué.
+
+El código que aparece debería ser código de barras, por lo que no lo calcula la herramienta.
+
+
+Rutas para proyecto
+http://localhost/producto/public/productos
