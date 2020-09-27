@@ -12,3 +12,6 @@ El código que aparece debería ser código de barras, por lo que no lo calcula 
 
 Rutas para proyecto
 http://localhost/producto/public/productos
+
+Link acceso Github:
+https://github.com/fofomartinez/Segundo-Parcial-Web-022020
